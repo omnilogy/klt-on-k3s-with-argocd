@@ -20,7 +20,7 @@ spec:
       annotations:
         # keptn.sh/app: simpleapp
         keptn.sh/workload: simplenode
-        keptn.sh/version: 1.0.2
+        keptn.sh/version: 1.0.3
         keptn.sh/pre-deployment-evaluations: evaluate-dependencies
         keptn.sh/pre-deployment-tasks: notify
         keptn.sh/post-deployment-evaluations: evaluate-deployment
